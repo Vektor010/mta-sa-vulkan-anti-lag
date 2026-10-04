@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/multitheftauto/mtasa-blue/master/Client/core/Images/logo_bottom.png" width="150" alt="MTA Logo">
+  <img src="assets/banner.jpg" alt="MTA Vulkan Overdrive Banner" width="800">
+  <br>
   <h1>⚡ MTA: VULKAN OVERDRIVE ⚡</h1>
   
   <p>
@@ -74,5 +75,6 @@ MTA:SA — это 32-битная игра, поэтому в нашем арх�
 <div align="center">
   <b>Увидимся на сервере без лагов. 🚀</b>
 </div>
+
 
 
