@@ -4,9 +4,9 @@
   <h1>⚡ MTA: VULKAN OVERDRIVE ⚡</h1>
   
   <p>
-    <a href="https://github.com/Vektor010/mta-sa-vulkan-anti-lag/releases/latest"><img src="https://img.shields.io/badge/Release-v1.10.3_Stable-8A2BE2?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a" alt="Version"></a>
-    <img src="https://img.shields.io/badge/Platform-MTA:SA-00CED1?style=flat-square&logo=windows&logoColor=white&labelColor=1a1a1a" alt="Platform">
-    <img src="https://img.shields.io/badge/API-Vulkan_(DXVK)-ff0055?style=flat-square&logo=vulkan&logoColor=white&labelColor=1a1a1a" alt="API">
+    <a href="https://github.com/Vektor010/mta-sa-vulkan-anti-lag/releases/latest"><img src="https://img.shields.io/badge/Release-v1.10.3_Stable-8A2BE2?style=plastic&logo=github&logoColor=white" alt="Version"></a>
+    <img src="https://img.shields.io/badge/Platform-MTA:SA-00CED1?style=plastic&logo=windows&logoColor=white" alt="Platform">
+    <img src="https://img.shields.io/badge/API-Vulkan_(DXVK)-ff0055?style=plastic&logo=vulkan&logoColor=white" alt="API">
   </p>
 
   <h3>Ультимативный патч от фризов, лагов и статтеров для любой версии MTA (2026)</h3>
@@ -50,7 +50,7 @@
 <div align="center">
   <br>
   <a href="https://github.com/Vektor010/mta-sa-vulkan-anti-lag/releases/download/v1.10.3-mta/MTA_Vulkan_Patch.zip">
-    <img src="https://img.shields.io/badge/СКАЧАТЬ_ГОТОВЫЙ_ПАТЧ_(ZIP)-00CED1?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a" alt="Download Button" height="40">
+    <img src="https://img.shields.io/badge/СКАЧАТЬ_ГОТОВЫЙ_ПАТЧ_(ZIP)-00CED1?style=plastic&logo=download&logoColor=white" alt="Download Button" height="40">
   </a>
   <br><br>
 </div>
