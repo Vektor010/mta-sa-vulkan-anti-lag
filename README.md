@@ -27,7 +27,7 @@ MTA:SA работает на устаревшем API **DirectX 9 (D3D9)**. Эт
 
 ### Что значит этот скриншот? (Объяснение для новичков)
 <div align="center">
-  <img src="assets/dxvk-proof.png" alt="DXVK HUD Proof">
+  <img src="assets/dxvk-proof-clean.png" alt="DXVK HUD Proof">
   <br><br>
   <table>
     <tr>
@@ -75,6 +75,7 @@ MTA:SA — это 32-битная игра, поэтому в нашем арх�
 <div align="center">
   <b>Увидимся на сервере без лагов. 🚀</b>
 </div>
+
 
 
 
