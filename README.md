@@ -87,7 +87,7 @@
 <div align="center">
   <h2>Увидимся на сервере без лагов! 🚀</h2>
   
-  <p><b>Больше оптимизации, красивых чатов и кастомных настроек MTA — в моем Telegram-канале:</b></p>
+  <p><b>Залетай в наш Telegram-чат для живого общения, помощи с оптимизацией и поиска серверов:</b></p>
   <a href="https://t.me/mtalivechat">
     <img src="https://img.shields.io/badge/Telegram-MTA_LIVE_CHAT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
   </a>
