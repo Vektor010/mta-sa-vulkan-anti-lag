@@ -35,7 +35,7 @@ MTA:SA работает на устаревшем API **DirectX 9 (D3D9)**. Эт
 
 ### ДЕКОДИРОВАНИЕ ТЕЛЕМЕТРИИ ПРОФИЛИРОВЩИКА DXVK
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vektor010/mta-sa-vulkan-anti-lag/master/assets/dxvk-proof-restored.jpg" alt="DXVK HUD Proof">
+  <img src="https://raw.githubusercontent.com/Vektor010/mta-sa-vulkan-anti-lag/master/assets/dxvk-proof-flawless.jpg" alt="DXVK HUD Proof">
 </div>
 <br>
 
@@ -103,6 +103,7 @@ MTA:SA — это 32-битная игра, поэтому в нашем арх�
 Если при заходе на ваш сервер (например, любой популярный RP-сервер) вас кикает с ошибкой измененного d3d9.dll:
 1. Попросите администрацию вашего сервера добавить хэш d3d9.dll от DXVK в **Whitelist** серверного античита MTA. Это базовая практика.
 2. Официальные разработчики MTA уже работают над нативной интеграцией этого метода (см. [Официальный PR #5342](https://github.com/multitheftauto/mtasa-blue/pull/5342)).
+
 
 
 
