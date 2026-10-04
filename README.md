@@ -82,8 +82,13 @@
 
 
 
+
 ---
 <div align="center">
   <h2>Увидимся на сервере без лагов! 🚀</h2>
-  <h3><i>— Vektor010</i></h3>
+  
+  <p><b>Больше оптимизации, красивых чатов и кастомных настроек MTA — в моем Telegram-канале:</b></p>
+  <a href="https://t.me/ТВОЯ_ССЫЛКА_ТУТ">
+    <img src="https://img.shields.io/badge/Telegram-Канал_Vektor010-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
+  </a>
 </div>
