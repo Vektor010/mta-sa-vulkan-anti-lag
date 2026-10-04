@@ -81,15 +81,9 @@
 * Можете приложить им ссылку на [Официальный PR #5342](https://github.com/multitheftauto/mtasa-blue/pull/5342) разработчиков самой MTA, которые сейчас работают над легализацией этого метода в коде игры.
 
 
+
 ---
 <div align="center">
-  <b>Увидимся на сервере без лагов! 🚀</b>
-  <br>
-  <i>— Vektor010</i>
+  <h2>Увидимся на сервере без лагов! 🚀</h2>
+  <h3><i>— Vektor010</i></h3>
 </div>
-
-<br><br>
-<details>
-  <summary>🔍 Теги для поисковиков (SEO)</summary>
-  <i>мта провинция лагает на мощном пк, как убрать фризы в mta province, ccdplanet мало фпс, mta sa fps boost 2026, лагает nextrp что делать, radmir mta оптимизация, как повысить фпс в мта на слабом пк, dxvk mta san andreas, зависает мта при езде, микрофризы на б/у рынке провинция, ccd planet статтеры, gta sa vulkan patch.</i>
-</details>
